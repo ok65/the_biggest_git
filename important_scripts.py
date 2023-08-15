@@ -1,6 +1,6 @@
 
 
-CONSTANT = 5
+CONSTANT = 10
 
 
 def go_bananas():
